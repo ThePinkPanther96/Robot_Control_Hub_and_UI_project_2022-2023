@@ -19,6 +19,6 @@ Harnessed .NET Framework and PowerShell to create a custom application precisely
 **Please Note** Some parts of the project might appear unusual or out of place because I had to replace numerous logos, backgrounds, and visual components due to copyright concerns, making them suitable for publication.
 So, as far as you are concerned, the company name is ```X Robotics``` and the robot application name is ```X_app```
 
-**Also Note** Some functions/code blocks are not functional or buggy. But, most of the code is usable and has been tasted.
+**Also Note** Some functions/code blocks are not functional or buggy. But, most of the code is usable and has been tasted. See comments on in the code.
 
 **For more information** on the project and its ideas, feel free to visit my *[LinkedIn](https://www.linkedin.com/in/gal-rozman/)* profile, where you'll find a *[PowerPoint presentation](https://www.linkedin.com/in/gal-rozman/overlay/1635539223012/single-media-viewer/?type=DOCUMENT&profileId=ACoAADb0dEgB0XA9XqaC5tDpiGjRjleHqSenoq8)* about it, you can reach me via email at *gal8156@gmail.com*
