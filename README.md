@@ -21,7 +21,7 @@ So, as far as you are concerned, the company name is ```X Robotics``` and the ro
 
 **Also Note** Some functions/code blocks are not functional or buggy. But, most of the code is usable and has been tasted. See comments in the code.
 
-**For more information** on the project and its ideas, feel free to visit my *[LinkedIn](https://www.linkedin.com/in/gal-rozman/)* profile, where you'll find a *[PowerPoint presentation](https://www.linkedin.com/in/gal-rozman/overlay/1635539223012/single-media-viewer/?type=DOCUMENT&profileId=ACoAADb0dEgB0XA9XqaC5tDpiGjRjleHqSenoq8)* about it, you can reach me via email at *gal8156@gmail.com*
+**For more information** on the project and its ideas, feel free to visit my *[LinkedIn](https://www.linkedin.com/in/gal-rozman/)* profile, where you'll find a *[PowerPoint presentation](https://www.linkedin.com/in/gal-rozman/overlay/1635539223012/single-media-viewer/?type=DOCUMENT&profileId=ACoAADb0dEgB0XA9XqaC5tDpiGjRjleHqSenoq8)* about it. You can also reach me via *[email](gal8156@gmail.com)*
 
 ### In this tutorial, I will provide general instructions on setting up and operating the project as originally intended. 
 
