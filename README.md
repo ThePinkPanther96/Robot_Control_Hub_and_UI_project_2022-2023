@@ -38,3 +38,4 @@ So, as far as you are concerned, the company name is ```X Robotics``` and the ro
 - NuGet 3 or higher
 - PowerShell 7
 - Microsoft Visual C++
+- Execution policy set to 'Unrestricted'
