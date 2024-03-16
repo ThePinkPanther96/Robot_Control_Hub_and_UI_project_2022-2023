@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CTScannerConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--The CT's AE title-->
+  <CTScannerAETitle>DICOM_SENDER</CTScannerAETitle>
+  <!--The XACT system AE title-->
+  <XactStationAETitle>X App</XactStationAETitle>
+  <!--The CT delay (in milliseconds) between the manual click on 'Scan' button and actual starting of the scan.-->
+  <CTScanDelay>1800</CTScanDelay>
+  <!--The ip configuration used for XACT system in the hospital's network-->
+  <XactIPAddress></XactIPAddress>
+  <XactNetMask></XactNetMask>
+  <XactDefaultGateway></XactDefaultGateway>
+  <!--The ip address used for the CT scanner in the hospital's network-->
+  <CTScannerIPAddress>51.75.171.41</CTScannerIPAddress>
+  <CTConnectivityPort>104</CTConnectivityPort>
+</CTScannerConfig>
